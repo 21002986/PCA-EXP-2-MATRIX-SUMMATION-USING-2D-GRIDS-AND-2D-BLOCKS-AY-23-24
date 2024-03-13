@@ -3,7 +3,7 @@
 ## NAME: K.Sai Vinay
 ## REG.NO: 212221040069
 ## EX. NO: 02
-## DATE: 12.03.24
+## DATE: 13.03.24
 ## MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS
 1. Use the file sumMatrixOnGPU-2D-grid-2D-block.cu 
 2. Matrix summation with a 2D grid and 2D blocks.
